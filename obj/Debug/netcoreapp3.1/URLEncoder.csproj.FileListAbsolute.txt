@@ -1,0 +1,11 @@
+C:\Users\cm3wa\OneDrive\Desktop\URLEncoder\obj\Debug\netcoreapp3.1\URLEncoder.csprojAssemblyReference.cache
+C:\Users\cm3wa\OneDrive\Desktop\URLEncoder\obj\Debug\netcoreapp3.1\URLEncoder.AssemblyInfoInputs.cache
+C:\Users\cm3wa\OneDrive\Desktop\URLEncoder\obj\Debug\netcoreapp3.1\URLEncoder.AssemblyInfo.cs
+C:\Users\cm3wa\OneDrive\Desktop\URLEncoder\bin\Debug\netcoreapp3.1\URLEncoder.exe
+C:\Users\cm3wa\OneDrive\Desktop\URLEncoder\bin\Debug\netcoreapp3.1\URLEncoder.deps.json
+C:\Users\cm3wa\OneDrive\Desktop\URLEncoder\bin\Debug\netcoreapp3.1\URLEncoder.runtimeconfig.json
+C:\Users\cm3wa\OneDrive\Desktop\URLEncoder\bin\Debug\netcoreapp3.1\URLEncoder.runtimeconfig.dev.json
+C:\Users\cm3wa\OneDrive\Desktop\URLEncoder\bin\Debug\netcoreapp3.1\URLEncoder.dll
+C:\Users\cm3wa\OneDrive\Desktop\URLEncoder\bin\Debug\netcoreapp3.1\URLEncoder.pdb
+C:\Users\cm3wa\OneDrive\Desktop\URLEncoder\obj\Debug\netcoreapp3.1\URLEncoder.dll
+C:\Users\cm3wa\OneDrive\Desktop\URLEncoder\obj\Debug\netcoreapp3.1\URLEncoder.pdb
